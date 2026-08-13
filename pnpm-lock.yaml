@@ -138,6 +138,9 @@ importers:
       '@notes-vault/database':
         specifier: workspace:*
         version: link:../../packages/database
+      dotenv:
+        specifier: ^17.4.2
+        version: 17.4.2
       reflect-metadata:
         specifier: ^0.2.2
         version: 0.2.2
